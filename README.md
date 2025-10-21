@@ -10,8 +10,8 @@ All code relies on common scientific computing libraries.
 To get a copy of this project on your local machine, run:
 
 ```bash
-git clone https://github.com/Fgkl10/sin_wave_wing_tail-.git
-cd sin_wave_wing_tail-
+git clone https://github.com/Fgkl10/sin_wave_wing_tail.git
+cd sin_wave_wing_tail
 ```
 
 ## Setting Up the Environment and Installing Dependencies
